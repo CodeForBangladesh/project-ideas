@@ -18,4 +18,4 @@ Lets #code_for_Bangladesh together.
 * [হারানো মানুষকে খুঁজে বের করুন](../master/docs/missing-person-app.md)
 * [দুর্নীতি সংযোগ](../master/docs/corruption-linker.md)
 * [ঝরে পড়া শিক্ষার্থী](../master/docs/education_dropouts.md)
-* [Consultancy & Consideration](docs/consultancy-and-consideration.md
+* [Consultancy & Consideration](docs/consultancy-and-consideration.md)
