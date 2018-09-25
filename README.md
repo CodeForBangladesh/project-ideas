@@ -1,7 +1,7 @@
 # প্রোজেক্ট আইডিয়া / Project Ideas
 
 
-### কেন 'কোড অফ বাংলাদেশ'? [Why code for Bangladesh]
+### কেন 'কোড ফর বাংলাদেশ'? [Why code for Bangladesh]
 An open source platform where we will build solutions for national problems collaboratively, by the people, for the people.
 
 If you have passion on software development, want to impress people by your codes and problem 
