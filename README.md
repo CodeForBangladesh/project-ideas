@@ -10,7 +10,6 @@ solving skills. Its the right place for you. We request you to join with us.
 If you have any idea or suggestion please feel free to share with us.
 
 Lets #CodeForBangladesh together.
- 
 
 
 ### প্রোজেক্ট আইডিয়া [Project Idea]
@@ -19,3 +18,6 @@ Lets #CodeForBangladesh together.
 * [ঝরে পড়া শিক্ষার্থী / Student Dropout](docs/education-dropouts.md)
 * [Consultancy & Consideration](docs/consultancy-and-consideration.md)
 * [আমার জীবন বাঁচাও / Save My Life](docs/save-my-life.md)
+
+### Project Discussion: 
+https://www.facebook.com/groups/CodeForBangladesh
