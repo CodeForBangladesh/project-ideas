@@ -19,6 +19,7 @@ Lets #CodeForBangladesh together.
 * [Consultancy & Consideration](docs/consultancy-and-consideration.md)
 * [আমার জীবন বাঁচাও / Save My Life](docs/save-my-life.md)
 * [Emergency Ambulance](docs/emergency-ambulance.md)
+* [School Solution](docs/school-solution.md)
 
 ### Project Discussion: 
 https://www.facebook.com/groups/CodeForBangladesh
