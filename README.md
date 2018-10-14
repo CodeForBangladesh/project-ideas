@@ -25,7 +25,7 @@
 * [Emergency Ambulance](docs/emergency-ambulance.md)
 * [School Solution](docs/school-solution.md)
 * [স্বাস্থ্য শিক্ষা আপ / Health Ed App](docs/health-ed-app.md)
-* [Track Dhaka City Bus App / বাস খুঁজে বের করুন ](docs/track-bus.md)
+* [বাস খুঁজে বের করুন / Track Dhaka City Bus App](docs/track-bus.md)
 
 
 ### প্রজেক্ট আলোচনা / Project Discussion: 
