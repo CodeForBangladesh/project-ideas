@@ -5,6 +5,6 @@ institution information. Then they will get their own institution interface with
 can set customized rules for result processing, attendence, assignments, progressive reports,
 guardian communication, authority notice so on. It will provide statistical prediction like
 "who will be [Dropout](education-dropouts.md)", "students current status", "where to
-improve" and and many more to think.
+improve" and many more to think.
 
 Live class, assignment submission, Online quiz or exam may be added.
